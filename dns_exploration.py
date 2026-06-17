@@ -38,8 +38,6 @@ def subdomain_search(root, lst, nums: bool):
                 numbered_domain = subdomain+str(i)+"."+root
                 dns_request(numbered_domain)
 
-
-
 root = "google.com"
 d = "/Users/keiratan/Desktop/Cybersec/python-for-cybersec/additional-files/subdomains.txt"
 
