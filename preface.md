@@ -18,3 +18,7 @@
 
 ## Tactic 2: PRE ATTACK Resource Development
 - strengthening tools and infrastructure to execute attack 
+
+## Tactic 3: Initial Access
+- first interaction with target network
+- interaction could be malicious or still for pre-attack
