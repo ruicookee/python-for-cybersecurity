@@ -22,3 +22,7 @@
 ## Tactic 3: Initial Access
 - first interaction with target network
 - interaction could be malicious or still for pre-attack
+
+## Tactic 4: Execution
+- most attacks involve malicious scripts and commands
+- may or may not be the only stage of execution
